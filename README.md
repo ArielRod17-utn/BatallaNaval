@@ -1,0 +1,1 @@
+Es un proyecto que creamos junto a mi grupo de estudio, basado en el famoso juego de la batalla naval, esta basado en lenguaje c++ orientado a objetos. Fue una linda experiencia, trabajo en equipo y compromiso!
